@@ -1,0 +1,35 @@
+<svg width="200" height="80" viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .chart-bar { fill: #ee7203; }
+    .chart-bar-2 { fill: #ff9c4d; }
+    .chart-bar-3 { fill: #ffb980; }
+    .chart-line { fill: none; stroke: #1e3c70; stroke-width: 3; stroke-linecap: round; }
+    .doc-bg { fill: #ffffff; stroke: #e6e6e6; stroke-width: 2; }
+    .doc-line { fill: #cccccc; }
+    .checkmark { fill: none; stroke: #228c22; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+    .title { font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; fill: #1e3c70; }
+    .subtitle { font-family: Arial, sans-serif; font-size: 12px; fill: #666666; }
+  </style>
+  
+  <!-- Document background -->
+  <rect class="doc-bg" x="10" y="15" width="180" height="60" rx="5" />
+  
+  <!-- Title and subtitle -->
+  <text x="20" y="35" class="title">DAMA Quality</text>
+  <text x="20" y="50" class="subtitle">Data Quality Assessment Tool</text>
+  
+  <!-- Orange underline -->
+  <rect class="chart-bar" x="20" y="55" width="80" height="3" rx="1" />
+  
+  <!-- Bar chart -->
+  <rect class="chart-bar" x="130" y="50" width="8" height="15" rx="1" />
+  <rect class="chart-bar-2" x="143" y="40" width="8" height="25" rx="1" />
+  <rect class="chart-bar-3" x="156" y="30" width="8" height="35" rx="1" />
+  <rect class="chart-bar" x="169" y="25" width="8" height="40" rx="1" />
+  
+  <!-- Line chart -->
+  <path class="chart-line" d="M130,35 Q143,25 156,40 Q169,45 180,30" />
+  
+  <!-- Checkmark -->
+  <path class="checkmark" d="M110,40 L115,45 L125,35" />
+</svg>

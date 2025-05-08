@@ -1,0 +1,31 @@
+Name,Age,City,Date,Salary,Department,Performance,Years_Employed,Satisfaction,Status
+John Smith,32,New York,2023-01-15,75000,Sales,4.2,5,3.8,Active
+Emily Davis,28,Chicago,2023-02-20,82000,Marketing,4.5,3,4.2,Active
+Michael Johnson,45,Los Angeles,2023-03-05,110000,Engineering,4.8,12,4.5,Active
+Sarah Williams,36,San Francisco,2023-04-10,95000,Product,4.3,7,4.0,Active
+David Brown,41,Boston,2023-05-22,88000,Finance,3.9,9,3.5,Active
+Jennifer Lee,29,Seattle,2023-06-14,79000,Marketing,4.1,4,4.3,Active
+Robert Chen,38,Austin,2023-07-03,92000,Engineering,4.6,6,4.7,Active
+Maria Garcia,33,Miami,2023-08-19,72000,Sales,3.8,5,3.2,Active
+James Wilson,44,Denver,2023-09-25,105000,Product,4.7,11,4.4,Active
+Patricia Moore,31,Portland,2023-10-12,81000,Marketing,4.4,3,4.1,Active
+Daniel Kim,39,San Diego,2023-11-08,96000,Engineering,4.5,8,4.6,Active
+Linda Martinez,35,Dallas,2023-12-17,85000,Finance,4.0,6,3.7,Active
+William Taylor,47,Chicago,2024-01-09,108000,Product,4.7,14,4.3,Active
+Elizabeth Anderson,34,New York,2024-02-22,90000,Marketing,4.2,5,4.0,Active
+Richard Thomas,43,Boston,2024-03-18,99000,Engineering,4.9,10,4.8,Active
+Susan Jackson,30,Los Angeles,2024-04-05,76000,Sales,3.7,2,3.3,Active
+Christopher White,40,San Francisco,2024-05-14,102000,Finance,4.4,9,4.1,Active
+Margaret Harris,37,Seattle,2024-06-20,87000,Marketing,4.3,7,4.2,Active
+Joseph Clark,46,Denver,2023-07-11,115000,Engineering,4.8,13,4.7,Active
+Lisa Lewis,32,Dallas,2023-08-27,79000,Sales,3.9,4,3.6,Active
+Thomas Walker,42,Portland,2023-09-03,98000,Product,4.6,9,4.4,Active
+Nancy Young,29,Austin,2023-10-19,73000,Marketing,4.0,2,4.0,Active
+Charles Hall,45,San Diego,2023-11-26,107000,Engineering,4.7,11,4.5,Active
+Karen Rodriguez,33,Miami,2023-12-08,84000,Finance,4.1,5,3.9,Active
+Mark Baker,38,New York,2024-01-14,93000,Sales,4.3,7,4.2,Active
+Mary Scott,31,Chicago,2024-02-05,80000,Marketing,4.2,3,4.1,Active
+Steven Adams,44,Los Angeles,2024-03-22,106000,Engineering,4.8,10,4.6,Active
+Michelle Nelson,36,San Francisco,2024-04-17,91000,Product,4.4,6,4.3,Active
+Donald Allen,43,Boston,2024-05-29,100000,Finance,4.5,9,4.0,Active
+Kimberly King,30,Seattle,2024-06-07,77000,Sales,3.8,3,3.7,Active
